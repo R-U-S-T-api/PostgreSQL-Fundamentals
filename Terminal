@@ -1,0 +1,19 @@
+Temrinal // uses
+
+show database
+\l
+\list
+
+
+connect database
+\c
+\c demo
+
+
+show all tables
+\dt
+
+
+show current database
+select current_database();
+
